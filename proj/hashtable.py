@@ -81,8 +81,7 @@ class Hashtable(MutableMapping):
                     self._items[position] = (key, val, True)
                     break
        
-       # increment self.counts every time a tuple is inserted
-        
+
         # check whether rehash needs to occur after every insertion
         self.rehash()
 
