@@ -10,5 +10,6 @@ Code for creating a Markov class that accepts input text to "build" a speaker mo
 
 ### Benchmarking the Hashtable
 Below is a graph benchmarking the performance of this hashtable implementation compared to Python's dictionary
-<img width="604" alt="graph" src="https://user-images.githubusercontent.com/107568169/211171379-f9733d78-95c8-468c-ba22-99c153c879af.png">
+![performance](https://user-images.githubusercontent.com/107568169/211171429-8c248c16-2c0c-4f1a-9109-a7df9113faf1.png)
+
 
